@@ -8,7 +8,7 @@ public class DevopsController {
 
     @GetMapping("/devops")
     public String getData(){
-        return "This is devops";
+        return "This is devops automation";
     }
 
 }
